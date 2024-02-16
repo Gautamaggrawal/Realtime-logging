@@ -1,6 +1,7 @@
 # Real-Time Logging with Django Channels
 
 ## Overview
+This log watching solution, akin to UNIX's **tail -f** command, employs Django Channels for real-time monitoring. It obviates page refreshes, efficiently streams updates, supports multiple connections, and shows the last 10 lines of the log.
 This project implements a real-time logging solution using Django Channels, allowing users to view updates from a remote log file in their web browser without the need for page refreshes. The server-side program monitors the specified log file and streams updates to connected clients via WebSocket, while the web-based client displays these updates in real-time.
 
 ## Features
