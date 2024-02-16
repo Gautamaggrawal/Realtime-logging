@@ -1,14 +1,65 @@
-# Realtime-logging
-Problem statement This problem requires you to implement a log watching solution (similar to the tail -f command in UNIX). However, in this case, the log file is hosted on a remote machine (same machine as your server code). The log file is in append-only mode.
-In python django
+# Real-Time Logging with Django Channels
 
-You have to implement the following:
+## Overview
+This project implements a real-time logging solution using Django Channels, allowing users to view updates from a remote log file in their web browser without the need for page refreshes. The server-side program monitors the specified log file and streams updates to connected clients via WebSocket, while the web-based client displays these updates in real-time.
 
-	1	 A server side program to monitor the given log file and capable of streaming updates that happen in it. This will run on the same machine as the log file. You may implement the server in any programming language. 
-	2	 A web based client (accessible via URL like http://localhost/log) that prints the updates in the file as and when they happen and NOT upon page refresh. The page should be loaded once and it should keep getting updated in real-time. The user sees the last 10 lines in the file when he lands on the page. 
+## Features
+- **Real-Time Updates**: Clients receive log updates in real-time as they occur.
+- **Efficient Retrieval**: Only the updates are transmitted, optimizing performance for large log files.
+- **Multiple Clients**: The server can handle multiple clients simultaneously.
+- **Last 10 Lines**: Clients see the last 10 lines of the log file when they initially load the page. 
+- **No Page Refresh**: The web page does not need to be refreshed to see new log updates.
 
-Problem Constraints The server should push updates to the clients as we have to be as real time as possible. Be aware that the log file may be several GB, how to optimise for retrieving the last 10 lines? The server should not retransmit the entire file every time. It should only send the updates. The server should be able to handle multiple clients at the same time.
+## Requirements
+- Python 3.x
+- Django
+- Django Channels
 
-The web page should not stay in loading state post the first load and it should not reload thereafter as well. You may not use off-the-shelf external libraries or tools to read the file or provide tail-like functionalities.
+## Installation
+1. Clone the repository:
+git clone https://github.com/your/repository.git
 
-We will be evaluating you for code quality, testability, modularity, corner cases, etc.
+markdown
+Copy code
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+markdown
+Copy code
+
+## Usage
+1. Run the Django server:
+
+python manage.py runserver
+
+markdown
+Copy code
+
+2. Navigate to `http://localhost:8000/log` in your web browser to view the real-time log updates.
+
+3. To monitor a specific log file, update the `log_path` variable in `consumers.py` with the path to your log file.
+
+## File Structure
+- **`consumers.py`**: Contains the WebSocket consumer class responsible for streaming log updates to clients.
+- **`views.py`**: Defines the Django view for rendering the web-based client.
+- **`templates/log.html`**: HTML template for the web-based client.
+- **`routing.py`**: Configures routing for WebSocket connections.
+- **`settings.py`**: Contains Django settings including Django Channels configuration.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+
+
+
+
+
+
