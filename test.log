@@ -1,0 +1,171 @@
+"verb" : "launch",
+"app_uuid" : "0a0ceba3-7ca9-421f-a973-8caae2950690",
+"timestamp" : "2016/10/31 20:08:27",
+"timestamp_hour" : 20,
+"timestamp_month" : 10,
+"timestamp_weekday" : 1,
+"process_id" : 29543,
+"job_id" : "some_job_ID_provided_through_cli_parameter",
+"filename" : "4-Catching Text in PDFs - Michael Fuchs.pdf",
+"filepath" : "/var/folders/80a56def-aa5f-418b-9685-8614ab6d41c2/0x10dd99000/4-Catching Text in PDFs.pdf",
+"cli_params" : ["--hitsperpage=50", "--report=ERROR,WARNING,TEMPLATE=OVERVIEW"],
+"program_name" : "callas pdfToolbox CLI (x64)",
+"program_version" : "9.1.417",
+"platform" : "Mac OS X 10.10.5",
+"machine_ips" : ["192.168.17.63"],
+"machine_name" : "pdftoolbox_satellite_3",
+"machine_uuid" : "---6E851-41E8-5060-B0A7-C0550F43E418",
+"temp_folder" : "/var/folders/yb/16cjr4dn2c5_27r2khx1bvbh0000gn/T/com.callassoftware.pdfToolbox/32e5717f-240a-4a17-86fe-a95551808721",
+"temp_folder_hdd" : "",
+evt.data
+evt.data
+evt.data
+evt.data
+evt.data
+evt.dataevt.dataevt.data
+temp_folder
+evt.data
+evt.data
+evt.data
+evt.data
+evt.data
+evt.data
+machine_uuid
+evt.data
+"machine_uuid" : "---6E851-41E8-5060-B0A7-C0550F43E418",
+"filename" : "4-Catching Text in PDFs - Michael Fuchs.pdf",
+"filepath" : "/var/folders/80a56def-aa5f-418b-9685-8614ab6d41c2/0x10dd99000/4-Catching Text in PDFs.pdf",
+"cli_params" : ["--hitsperpage=50", "--report=ERROR,WARNING,TEMPLATE=OVERVIEW"],
+"program_name" : "callas pdfToolbox CLI (x64)",
+"program_version" : "9.1.417",
+"platform" : "Mac OS X 10.10.5",
+"machine_ips" : ["192.168.17.63"],
+"machine_name" : "pdftoolbox_satellite_3",
+"machine_uuid" : "---6E851-41E8-5060-B0A7-C0550F43E418",
+"temp_folder" : "/var/folders/yb/16cjr4dn2c5_27r2khx1bvbh0000gn/T/com.callassoftware.pdfToolbox/32e5717f-240a-4a17-86fe-a95551808721",
+"temp_folder_hdd" : "",
+"temp_folder_hdd" : "",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+"platform" : "Mac OS X 10.10.5",
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Delhi 
+This is Paris 
+This is London 
+This is Paris 
+This is Delhi 
+This is London 
+This is London 
+This is Delhi 
+This is London 
+This is Delhi 
+This is Paris 
+This is Delhi 
+This is Paris 
+This is Paris 
+This is London 
+This is London 
+This is Delhi 
+This is Delhi 
+This is London 
+This is London 
+This is Delhi 
+This is London 
+This is London 
+This is Paris 
+This is London 
+"timestamp_month" : 10,
+"timestamp_weekday" : 1,
+"process_id" : 29543,
+"job_id" : "some_job_ID_provided_through_cli_parameter",
+"filename" : "4-Catching Text in PDFs - Michael Fuchs.pdf",
+"filepath" : "/var/folders/80a56def-aa5f-418b-9685-8614ab6d41c2/0x10dd99000/4-Catching Text in PDFs.pdf",
+"cli_params" : ["--hitsperpage=50", "--report=ERROR,WARNING,TEMPLATE=OVERVIEW"],
+"program_name" : "callas pdfToolbox CLI (x64)",
+"program_version" : "9.1.417",
+"platform" : "Mac OS X 10.10.5",
+"process_id" : 29543,
+"job_id" : "some_job_ID_provided_through_cli_parameter",
+"filename" : "4-Catching Text in PDFs - Michael Fuchs.pdf",
+"filepath" : "/var/folders/80a56def-aa5f-418b-9685-8614ab6d41c2/0x10dd99000/4-Catching Text in PDFs.pdf",
+"cli_params" : ["--hitsperpage=50", "--report=ERROR,WARNING,TEMPLATE=OVERVIEW"],
+"program_name" : "callas pdfToolbox CLI (x64)",
+"program_version" : "9.1.417",
+"platform" : "Mac OS X 10.10.5",
+"machine_ips" : ["192.168.17.63"],
+"machine_name" : "pdftoolbox_satellite_3",
+"machine_uuid" : "---6E851-41E8-5060-B0A7-C0550F43E418",
+"temp_folder" : "/var/folders/yb/16cjr4dn2c5_27r2khx1bvbh0000gn/T/com.callassoftware.pdfToolbox/32e5717f-240a-4a17-86fe-a95551808721",
+"temp_folder_hdd" : "",
+evt.dataThis is London 
+kjjkejkwejk
+ewkjewjewjk
+ewjkewjkkjew
+This is Paris 
+This is Delhi 
+This is London 
+This is Paris 
+This is London 
+This is Delhi 
+"machine_uuid" : "---6E851-41E8-5060-B0A7-C0550F43E418",
+"temp_folder" : "/var/folders/yb/16cjr4dn2c5_27r2kh
+"verb" : "launch",
+"app_uuid" : "0a0ceba3-7ca9-421f-a973-8caae2950690",
+"verb" : "launch",
+"app_uuid" : "0a0ceba3-7ca9-421f-a973-8caae2950690",
+"verb" : "launch",
+"app_uuid" : "0a0ceba3-7ca9-421f-a973-8caae2950690",
+"verb" : "launch",
+"app_uuid" : "0a0ceba3-7ca9-421f-a973-8caae2950690",
+"machine_uuid" : "---6E851-41E8-5060-B0A7-C0550F43E418",
+"filename" : "4-Catching Text in PDFs - Michael Fuchs.pdf",
+"filepath" : "/var/folders/80a56def-aa5f-418b-9685-8614ab6d41c2/0x10dd99000/4-Catching Text in PDFs.pdf",
+"cli_params" : ["--hitsperpage=50", "--report=ERROR,WARNING,TEMPLATE=OVERVIEW"],
+"program_name" : "callas pdfToolbox CLI (x64)",
+ewjkewjkkjew
+This is Paris 
+This is Delhi 
+This is London 
+This is Paris This is London 
+This is London 
